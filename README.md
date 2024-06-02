@@ -5,10 +5,7 @@ This project is done as part of Media project for MSc. in Media Technology and i
 
 Sor for each of this individual tasks, there are individual folders as well, which contains the corresponding models and evaluation scripts.
 
-Datasets can be downloaded from the following link:
-
-https://drive.google.com/drive/folders/15Bhw12W7Jes8d9vHZWIPDtzQAVvZrvAm
-
+Datasets can be provided on request:
 
 
 * To see the output of over all tasks, run the "lightEstim.py" file in cell. 
