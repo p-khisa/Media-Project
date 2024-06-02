@@ -1,4 +1,4 @@
-This project has 3 parts:
+This project is done as part of Media project for MSc. in Media Technology and it has 3 tasks:
 1. light estimation and probe prediction
 2. relighting 
 3. generate hdr output predictions from ldr input images
